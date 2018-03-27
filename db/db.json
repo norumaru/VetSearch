@@ -1,0 +1,34 @@
+{
+  "clinics": [
+    {
+      "id": 1,
+      "name": "Emergency Veterinary Clinic of Abilene",
+      "description": "The Emergency Clinic is proud to serve Abilene, TX and surrounding areas. We are dedicated to providing the highest level of veterinary medicine along with friendly, compassionate service.<br>We believe in treating every patient as if they were our own pet, and giving them the same loving attention and care. We are a group of highly trained, experienced animal lovers who are devoted to giving our patients the best care possible.<br>If you have any questions about how we can care for your pet, please do not hesitate to call us at (325) 691-1504. Thank you!",
+      "phone": "(325) 691-1504",
+      "address": "909 Industrial Blvd., Abilene, TX 79602",
+      "website": "https://emergencyvetabilene.com/",
+      "workHours": "Open Weeknights From 6pm-7:30am<br>Open Weekends 24 Hours until Monday at 7:30 am<br>Open Holidays 24 hours",
+      "imageSrc": "images/logo-c1.png"
+    },
+    {
+      "id": 2,
+      "name": "Janesville Veterinary Clinic",
+      "description": "At The Janesville Veterinary Clinic, you and your pet are considered an extension of our family. Together, we will work hard to help your loved one enjoy as many happy, healthy years by your side as possible.<br>From that first well-pet check up to specialized senior care, and every milestone along the way � we�re prepared to be there with you through it all. As your partner, your friend, your trusted resource, and your biggest supporter.<br>We value ongoing education as much as cutting-edge technology. Our staff undergo training weekly to ensure your loved one has the best treatment available.<br>Beyond all of our experience and hands-on training, we are pet parents ourselves. Our personal interactions with animals make treating your pet with a compassionate, gentle touch second nature to us.",
+      "phone": "(608) 754-6606",
+      "address": "1802 Mineral Point Ave, Janesville, WI 53548 ",
+      "website": "http://www.janesvillevetclinic.com/",
+      "workHours": "Monday 7:30am-5:30pm<br>Tuesday 7:30am-5:30pm<br>Wednesday 7:30am-7pm<br>Thursday 7:30am-7pm<br>Friday 7:30am-5:30pm<br>Saturday 7:30am-12:30pm<br>Sunday Closed",
+      "imageSrc": "images/janes.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cave Springs Veterinary Clinic",
+      "description": "Excellent pets deserve excellent care. We are focused on ensuring the health and longevity of your furry family members. Cave Spring Vet is your other family doctor.",
+      "phone": "540 989 8582",
+      "address": "4538 Old Cave Spring Rd, Roanoke ",
+      "website": "http://cavespringvet.com/",
+      "workHours": "Monday 7:30am-5:30pm<br>Tuesday 7:30am-5:30pm<br>Wednesday 7:30am-7pm<br>Thursday 7:30am-7pm<br>Friday 7:30am-5:30pm<br>Saturday 7:30am-12:30pm<br>Sunday Closed",
+      "imageSrc": "images/cave-spring.png"
+    }
+  ]
+}
